@@ -8,6 +8,6 @@ CloudStream için Asya dizisi ve filmi sağlayıcıları.
 https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/repo.json
 ```
 
-WioAsya toplu sağlayıcısında kullanılacak kaynaklar eklenti ayarlarından seçilebilir. DiziAsya, DiziKorea, AsyaLog, AsyaWatch ve WebDramaTurkey ayrıca tek tek kurulabilir.
+Toplu WioAsya kataloğu kaldırıldı; eşleşme sorunlarını önlemek için sağlayıcılar ayrı kurulur. DiziAsya, DiziKorea, AsyaLog, AsyaWatch ve WebDramaTurkey tek tek kurulabilir.
 
 Destek: [Kreosus](https://kreosus.com/wiojelt) · [Telegram](https://t.me/wiolandcs3)
