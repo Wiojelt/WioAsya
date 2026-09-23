@@ -1,0 +1,8 @@
+{
+  "name": "WioAsya",
+  "description": "CloudStream Asya dizisi ve filmi sağlayıcıları",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/plugins.json"
+  ]
+}
