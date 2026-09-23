@@ -129,7 +129,7 @@
       "Anime",
       "Others"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/WebDramaTurkey.svg",
     "apiVersion": 1,
     "fileHash": "sha256-dea3ba5ac0b2dc3740cfc5aa8ed4643e46c4b218f371ee24120755811cee74e0"
   }
