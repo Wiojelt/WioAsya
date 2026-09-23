@@ -1,0 +1,136 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/9c327d216504a1bc42fefd74ab82f4a668468ced/WioAsya.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "WioAsya",
+    "internalName": "WioAsya",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Asya dizisi sağlayıcılarını tek katalogda birleştirir; kaynaklar ayarlardan seçilebilir.",
+    "fileSize": 2035874,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-485e19dc903c378c30452307debb43f26cfe2b9ae00c60f2886339358cd70063"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/9c327d216504a1bc42fefd74ab82f4a668468ced/DiziAsya.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "DiziAsya",
+    "internalName": "DiziAsya",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
+    "fileSize": 95149,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://diziasya.com/apple-touch-icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-8c70b8f6c607c9082793da36a2b4c1ca3878de2d8e860d03dc627a1177a94b1b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/9c327d216504a1bc42fefd74ab82f4a668468ced/DiziKorea.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "DiziKorea",
+    "internalName": "DiziKorea",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziKorea · Asya dizileri sağlayıcısı",
+    "fileSize": 90303,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-19f7dea8e1450237f39f8268cda02b640a96bf5d392bd65d22fd6f5e33910124"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/9c327d216504a1bc42fefd74ab82f4a668468ced/TRasyalog.cs3",
+    "status": 3,
+    "version": 7,
+    "name": "TRasyalog",
+    "internalName": "TRasyalog",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "AsyaLog · Asya dizileri sağlayıcısı",
+    "fileSize": 77008,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-dc874cdd1b847b4f9796fc1b615581d3c11b91a508c181d4aed183ddee0a0bf4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/9c327d216504a1bc42fefd74ab82f4a668468ced/AsyaWatch.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "AsyaWatch",
+    "internalName": "AsyaWatch",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "AsyaWatch · Asya dizileri",
+    "fileSize": 92239,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-3a4327c7d7a67b4e96abfeea1bfd21d0517f074406dc4ce022d1389e86c91b74"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/9c327d216504a1bc42fefd74ab82f4a668468ced/WebDramaTurkey.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "WebDramaTurkey",
+    "internalName": "WebDramaTurkey",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WebDramaTurkey · Asya ve Kore dizileri, Çin, Japon dizileri ve filmleri tek sağlayıcıda.",
+    "fileSize": 109598,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "Anime",
+      "Others"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-dea3ba5ac0b2dc3740cfc5aa8ed4643e46c4b218f371ee24120755811cee74e0"
+  }
+]
