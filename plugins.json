@@ -1,5 +1,26 @@
 [
   {
+    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-09-26/AsyaAnimeleri.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "AsyaAnimeleri",
+    "internalName": "AsyaAnimeleri",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "AsyaAnimeleri · Türkçe altyazılı anime sağlayıcısı",
+    "fileSize": 79702,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-3036d5b57ae4675e7ca409d99ee4be3d03ab5cda47e104266f3031e8627d17bf"
+  },
+  {
     "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-09-23/DiziAsya.cs3",
     "status": 3,
     "version": 8,
