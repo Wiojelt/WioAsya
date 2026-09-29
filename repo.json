@@ -1,7 +1,7 @@
 {
   "name": "WioAsya",
   "description": "CloudStream Asya dizisi ve filmi sağlayıcıları",
-  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo-20260929.png",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/plugins.json?v=wioasya-artifacts-2026-09-26"
