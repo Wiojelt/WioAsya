@@ -1,5 +1,27 @@
 [
   {
+    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03/WioAsya.cs3",
+    "status": 3,
+    "version": 3,
+    "name": "WioAsya",
+    "internalName": "WioAsya",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Asya dizisi sağlayıcılarını tek katalogda birleştirir; kaynaklar ayarlardan seçilebilir.",
+    "fileSize": 2122548,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-77a437ec156921f81842a934b8527c68a5b22ad9032b52244a13f53fdd0db431"
+  },
+  {
     "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-09-26/AsyaAnimeleri.cs3",
     "status": 3,
     "version": 8,
