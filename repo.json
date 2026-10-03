@@ -4,6 +4,6 @@
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/plugins.json?v=wioasya-artifacts-2026-10-03-r5"
+    "https://raw.githubusercontent.com/Wiojelt/WioAsya/be82ce1e4f284d431d00ef9fd8c2cb11b9000ee1/plugins.json"
   ]
 }
