@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03-r9/WioAsya.cs3",
+    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03-r10/WioAsya.cs3",
     "status": 3,
-    "version": 11,
+    "version": 12,
     "name": "WioAsya",
     "internalName": "WioAsya",
     "authors": [
       "Wiojelt"
     ],
     "description": "Asya dizisi sağlayıcılarını tek katalogda birleştirir; kaynaklar ayarlardan seçilebilir.",
-    "fileSize": 2177390,
+    "fileSize": 2189534,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
@@ -19,7 +19,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-852b5ec189e8c5befa25afd0f9a3e42113f0ded90679e02fc95b793bd6d8e1dd"
+    "fileHash": "sha256-077dcc31a8f16f84fed7cd5340e3f1e2cbc1dc0ebfb3508c1b60a1fe844b2338"
   },
   {
     "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03-r8/AsyaAnimeleri.cs3",
@@ -43,16 +43,16 @@
     "fileHash": "sha256-f982122eafc77e8fd00cd6b4f5a1fb76d9a17f4d94b3c143afe0b962f8591c0f"
   },
   {
-    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03-r9/DiziAsya.cs3",
+    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03-r10/DiziAsya.cs3",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
-    "fileSize": 133600,
+    "fileSize": 134672,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
@@ -62,7 +62,7 @@
     ],
     "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6c9b7ae89b60d53bb9da23c61649cad3379e46b28d07727308398607c8b06d0f"
+    "fileHash": "sha256-6a4bb5d3c39bc47aa2f0e02cea0211713c72475807418a5070d1a0465fc4b4c3"
   },
   {
     "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-09-23/DiziKorea.cs3",
