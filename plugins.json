@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03-r7/WioAsya.cs3",
+    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03-r8/WioAsya.cs3",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "WioAsya",
     "internalName": "WioAsya",
     "authors": [
       "Wiojelt"
     ],
     "description": "Asya dizisi sağlayıcılarını tek katalogda birleştirir; kaynaklar ayarlardan seçilebilir.",
-    "fileSize": 2171103,
+    "fileSize": 2173582,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
@@ -19,19 +19,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9458d690e5a6f264d474c010744bf02b586a37e1876cfa05a5bd206e6c8c7bb4"
+    "fileHash": "sha256-5d2293f6bdcae53fe5b3e67a8a0a628aa65efb8d44c73fd8d6d2d3c720e2f20c"
   },
   {
-    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03-r7/AsyaAnimeleri.cs3",
+    "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-10-03-r8/AsyaAnimeleri.cs3",
     "status": 3,
-    "version": 10,
+    "version": 11,
     "name": "AsyaAnimeleri",
     "internalName": "AsyaAnimeleri",
     "authors": [
       "Wiojelt"
     ],
     "description": "AsyaAnimeleri · Türkçe altyazılı anime sağlayıcısı",
-    "fileSize": 122750,
+    "fileSize": 126087,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
@@ -40,7 +40,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-106925c67108cbd52412d0d4badcbc505f35e7530339c5fcbc14cca5e33e3d82"
+    "fileHash": "sha256-f982122eafc77e8fd00cd6b4f5a1fb76d9a17f4d94b3c143afe0b962f8591c0f"
   },
   {
     "url": "https://github.com/Wiojelt/WioAsya/releases/download/wioasya-artifacts-2026-09-23/DiziAsya.cs3",
