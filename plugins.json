@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/AsyaAnimeleri.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/AsyaAnimeleri.cs3?v=f982122eafc7",
     "status": 3,
-    "version": 8,
+    "version": 11,
     "name": "AsyaAnimeleri",
     "internalName": "AsyaAnimeleri",
     "authors": [
       "Wiojelt"
     ],
     "description": "AsyaAnimeleri · Türkçe altyazılı anime sağlayıcısı",
-    "fileSize": 79702,
+    "fileSize": 126087,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
@@ -18,19 +18,19 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3036d5b57ae4675e7ca409d99ee4be3d03ab5cda47e104266f3031e8627d17bf"
+    "fileHash": "sha256-f982122eafc77e8fd00cd6b4f5a1fb76d9a17f4d94b3c143afe0b962f8591c0f"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziAsya.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziAsya.cs3?v=7c1d850c4fe6",
     "status": 3,
-    "version": 8,
+    "version": 12,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
-    "fileSize": 95149,
+    "fileSize": 140490,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
@@ -40,10 +40,10 @@
     ],
     "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8c70b8f6c607c9082793da36a2b4c1ca3878de2d8e860d03dc627a1177a94b1b"
+    "fileHash": "sha256-7c1d850c4fe651b31f2deebe3509e2b3254b33e031cad28bd7780c1e8810e5bb"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziKorea.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziKorea.cs3?v=19f7dea8e145",
     "status": 3,
     "version": 7,
     "name": "DiziKorea",
@@ -66,7 +66,7 @@
     "fileHash": "sha256-19f7dea8e1450237f39f8268cda02b640a96bf5d392bd65d22fd6f5e33910124"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/TRasyalog.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/TRasyalog.cs3?v=dc874cdd1b84",
     "status": 3,
     "version": 7,
     "name": "TRasyalog",
@@ -89,7 +89,7 @@
     "fileHash": "sha256-dc874cdd1b847b4f9796fc1b615581d3c11b91a508c181d4aed183ddee0a0bf4"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/AsyaWatch.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/AsyaWatch.cs3?v=3a4327c7d7a6",
     "status": 3,
     "version": 1,
     "name": "AsyaWatch",
@@ -110,7 +110,7 @@
     "fileHash": "sha256-3a4327c7d7a67b4e96abfeea1bfd21d0517f074406dc4ce022d1389e86c91b74"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/WebDramaTurkey.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/WebDramaTurkey.cs3?v=dea3ba5ac0b2",
     "status": 3,
     "version": 8,
     "name": "WebDramaTurkey",
