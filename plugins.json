@@ -43,27 +43,26 @@
     "fileHash": "sha256-7c1d850c4fe651b31f2deebe3509e2b3254b33e031cad28bd7780c1e8810e5bb"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziKorea.cs3?v=19f7dea8e1_1791241769",
-    "status": 3,
-    "version": 7,
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziKorea.cs3?v=75c142c88e8b",
+    "status": 1,
+    "version": 30,
     "name": "DiziKorea",
     "internalName": "DiziKorea",
     "authors": [
       "Wiojelt"
     ],
-    "description": "DiziKorea · Asya dizileri sağlayıcısı",
-    "fileSize": 90303,
+    "description": "DiziKorea · Asya ve Kore dizileri sağlayıcısı",
+    "fileSize": 55107,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
-      "Movie",
+      "AsianDrama",
       "TvSeries",
-      "Anime",
-      "Documentary"
+      "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-19f7dea8e1450237f39f8268cda02b640a96bf5d392bd65d22fd6f5e33910124"
+    "fileHash": "sha256-75c142c88e8b13b095d2c089a97769d57441d8508d8bb8df3e8bd4a1f2a45259"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/TRasyalog.cs3?v=dc874cdd1b_1791241769",
