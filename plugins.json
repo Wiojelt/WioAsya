@@ -43,26 +43,27 @@
     "fileHash": "sha256-7c1d850c4fe651b31f2deebe3509e2b3254b33e031cad28bd7780c1e8810e5bb"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziKorea.cs3?v=75c142c88e8b",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziKorea.cs3?v=cbf10da5c294",
     "status": 1,
-    "version": 30,
+    "version": 16,
     "name": "DiziKorea",
     "internalName": "DiziKorea",
     "authors": [
-      "Wiojelt"
+      "Wiojelt",
+      "CloudStreamTR",
+      "kraptor"
     ],
-    "description": "DiziKorea · Asya ve Kore dizileri sağlayıcısı",
-    "fileSize": 55107,
+    "description": "Asya dizileri ve filmleri. Yayınlanmamış bölümlerde 'Bu bölümü sizler için hazırlıyoruz' bilgisi bölüm açıklamasında gösterilir.",
+    "fileSize": 151209,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
       "AsianDrama",
-      "TvSeries",
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-75c142c88e8b13b095d2c089a97769d57441d8508d8bb8df3e8bd4a1f2a45259"
+    "fileHash": "sha256-cbf10da5c294aa06810ed6a8879df2f75b5791beb27e0739e2594b56ac5bb1b8"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/TRasyalog.cs3?v=dc874cdd1b_1791241769",
