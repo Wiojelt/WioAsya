@@ -131,5 +131,27 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/WebDramaTurkey.svg",
     "apiVersion": 1,
     "fileHash": "sha256-dea3ba5ac0b2dc3740cfc5aa8ed4643e46c4b218f371ee24120755811cee74e0"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/HintFilmIzle.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "HintFilmİzle",
+    "internalName": "HintFilmIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "HintFilmİzle · En yeni Hint ve Asya filmleri & dizileri (hintfilmizle.com)",
+    "fileSize": 163198,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/assets/hintfilmizle.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-7c530048788ea7c18c231b94d73df56f6a54ba92f31b898e706e100763860d23"
   }
 ]
