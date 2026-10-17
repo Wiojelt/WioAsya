@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/AsyaAnimeleri.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/AsyaAnimeleri.cs3?v=e319da56670c",
     "status": 3,
     "version": 10,
     "name": "AsyaAnimeleri",
@@ -43,7 +43,7 @@
     "fileHash": "sha256-7c1d850c4fe651b31f2deebe3509e2b3254b33e031cad28bd7780c1e8810e5bb"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/DiziKorea.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/DiziKorea.cs3?v=7dfcf5f7c1f3",
     "status": 1,
     "version": 8,
     "name": "DiziKorea",
@@ -66,7 +66,7 @@
     "fileHash": "sha256-7dfcf5f7c1f3ad710da3a2d4c16df299a6261a9e4c78296b3541395bd722cef7"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/TRasyalog.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/TRasyalog.cs3?v=75a66a410a47",
     "status": 3,
     "version": 9,
     "name": "TRasyalog",
@@ -133,7 +133,7 @@
     "fileHash": "sha256-dea3ba5ac0b2dc3740cfc5aa8ed4643e46c4b218f371ee24120755811cee74e0"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/HintFilmIzle.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/HintFilmIzle.cs3?v=7c530048788e",
     "status": 1,
     "version": 2,
     "name": "HintFilmİzle",
