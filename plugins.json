@@ -21,16 +21,16 @@
     "fileHash": "sha256-e319da56670c523e59fd30615e1db05c9b3b193e0adcd14858148221e09c37bd"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziAsya.cs3?v=8e1caffc038b",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziAsya.cs3?v=194ca191ec91",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
-    "fileSize": 129830,
+    "fileSize": 130917,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
@@ -40,8 +40,8 @@
     ],
     "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8e1caffc038bf9073ff41894f7210bdb899bb6c1db47507f40c835bbd9c6c168",
-    "hash": "8e1caffc038bf9073ff41894f7210bdb899bb6c1db47507f40c835bbd9c6c168"
+    "fileHash": "sha256-194ca191ec91a797dc1a1fc903afc5d98fb3bee9b27462f616992a76dd827ffc",
+    "hash": "194ca191ec91a797dc1a1fc903afc5d98fb3bee9b27462f616992a76dd827ffc"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/DiziKorea.cs3?v=7dfcf5f7c1f3",
