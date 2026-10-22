@@ -40,7 +40,8 @@
     ],
     "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7c1d850c4fe651b31f2deebe3509e2b3254b33e031cad28bd7780c1e8810e5bb"
+    "fileHash": "sha256-7c1d850c4fe651b31f2deebe3509e2b3254b33e031cad28bd7780c1e8810e5bb",
+    "hash": "7c1d850c4fe651b31f2deebe3509e2b3254b33e031cad28bd7780c1e8810e5bb"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/DiziKorea.cs3?v=7dfcf5f7c1f3",
