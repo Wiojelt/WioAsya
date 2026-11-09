@@ -1,158 +1,158 @@
 [
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/AsyaAnimeleri.cs3?v=e319da56670c",
-        "status": 3,
-        "version": 10,
-        "name": "AsyaAnimeleri",
-        "internalName": "AsyaAnimeleri",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "AsyaAnimeleri · Türkçe altyazılı anime sağlayıcısı",
-        "fileSize": 118915,
-        "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
-        "language": "tr",
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=128",
-        "apiVersion": 1,
-        "fileHash": "sha256-e319da56670c523e59fd30615e1db05c9b3b193e0adcd14858148221e09c37bd"
-    },
-    {
-        "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziAsya.cs3?v=54ea45c08899",
-        "status": 3,
-        "version": 13,
-        "name": "DiziAsya",
-        "internalName": "DiziAsya",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
-        "fileSize": 139160,
-        "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
-        "language": "tr",
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "iconUrl": "https://diziasya.com/apple-touch-icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-54ea45c088996db02df0193604995619aaaf3db52b50924a579fd7b0b316dc3e",
-        "hash": "54ea45c088996db02df0193604995619aaaf3db52b50924a579fd7b0b316dc3e"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/DiziKorea.cs3?v=7dfcf5f7c1f3",
-        "status": 1,
-        "version": 8,
-        "name": "DiziKorea",
-        "internalName": "DiziKorea",
-        "authors": [
-            "Wiojelt",
-            "CloudStreamTR",
-            "kraptor"
-        ],
-        "description": "Asya dizileri ve filmleri. Yayınlanmamış bölümlerde 'Bu bölümü sizler için hazırlıyoruz' bilgisi bölüm açıklamasında gösterilir.",
-        "fileSize": 119855,
-        "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
-        "language": "tr",
-        "tvTypes": [
-            "AsianDrama",
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=128",
-        "apiVersion": 1,
-        "fileHash": "sha256-7dfcf5f7c1f3ad710da3a2d4c16df299a6261a9e4c78296b3541395bd722cef7"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/TRasyalog.cs3?v=75a66a410a47",
-        "status": 3,
-        "version": 9,
-        "name": "TRasyalog",
-        "internalName": "TRasyalog",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "AsyaLog · Asya dizileri sağlayıcısı",
-        "fileSize": 107434,
-        "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Documentary"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=128",
-        "apiVersion": 1,
-        "fileHash": "sha256-75a66a410a47c0e2c2e60614fff3a84a68b11d61e625d79aa683a3dc6a3d573c"
-    },
-    {
-        "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/AsyaWatch.cs3?v=dbe277fc70a3",
-        "status": 3,
-        "version": 3,
-        "name": "AsyaWatch",
-        "internalName": "AsyaWatch",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "AsyaWatch · Asya dizileri",
-        "fileSize": 121700,
-        "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
-        "language": "tr",
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=128",
-        "apiVersion": 1,
-        "fileHash": "sha256-dbe277fc70a32547012098e0724ab5ca10d770f0d271ecf5e939b85d232ad38e"
-    },
-    {
-        "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/WebDramaTurkey.cs3?v=a6711d784bc0",
-        "status": 3,
-        "version": 10,
-        "name": "WebDramaTurkey",
-        "internalName": "WebDramaTurkey",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "WebDramaTurkey · Asya ve Kore dizileri, Çin, Japon dizileri ve filmleri tek sağlayıcıda.",
-        "fileSize": 140524,
-        "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
-        "language": "tr",
-        "tvTypes": [
-            "AsianDrama",
-            "Movie",
-            "Anime",
-            "Others"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/WebDramaTurkey.svg",
-        "apiVersion": 1,
-        "fileHash": "sha256-a6711d784bc0f995b8dac2c899ec4bcd36138052e6e403522d2855238942d9a2"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/HintFilmIzle.cs3?v=7c530048788e",
-        "status": 1,
-        "version": 2,
-        "name": "HintFilmİzle",
-        "internalName": "HintFilmIzle",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "HintFilmİzle · En yeni Hint ve Asya filmleri & dizileri (hintfilmizle.com)",
-        "fileSize": 163198,
-        "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "AsianDrama"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/assets/hintfilmizle.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-7c530048788ea7c18c231b94d73df56f6a54ba92f31b898e706e100763860d23"
-    }
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/AsyaAnimeleri.cs3?v=e319da56670c",
+    "status": 3,
+    "version": 10,
+    "name": "AsyaAnimeleri",
+    "internalName": "AsyaAnimeleri",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "AsyaAnimeleri · Türkçe altyazılı anime sağlayıcısı",
+    "fileSize": 118915,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-e319da56670c523e59fd30615e1db05c9b3b193e0adcd14858148221e09c37bd"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziAsya.cs3?v=54ea45c08899",
+    "status": 3,
+    "version": 13,
+    "name": "DiziAsya",
+    "internalName": "DiziAsya",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
+    "fileSize": 139160,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://diziasya.com/apple-touch-icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-54ea45c088996db02df0193604995619aaaf3db52b50924a579fd7b0b316dc3e",
+    "hash": "54ea45c088996db02df0193604995619aaaf3db52b50924a579fd7b0b316dc3e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/DiziKorea.cs3?v=cba4a2df61b5",
+    "status": 1,
+    "version": 8,
+    "name": "DiziKorea",
+    "internalName": "DiziKorea",
+    "authors": [
+      "Wiojelt",
+      "CloudStreamTR",
+      "kraptor"
+    ],
+    "description": "Asya dizileri ve filmleri. Yayınlanmamış bölümlerde 'Bu bölümü sizler için hazırlıyoruz' bilgisi bölüm açıklamasında gösterilir.",
+    "fileSize": 121186,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-cba4a2df61b5139325efb99c33dce41494f674051d22c5fdf705a8739a935cc7"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/TRasyalog.cs3?v=c6c1e83192ae",
+    "status": 3,
+    "version": 9,
+    "name": "TRasyalog",
+    "internalName": "TRasyalog",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "AsyaLog · Asya dizileri sağlayıcısı",
+    "fileSize": 109206,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-c6c1e83192ae7adfaa390b2360470b289c4bb38243ecb79c81f038871e94ae5c"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/AsyaWatch.cs3?v=dbe277fc70a3",
+    "status": 3,
+    "version": 3,
+    "name": "AsyaWatch",
+    "internalName": "AsyaWatch",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "AsyaWatch · Asya dizileri",
+    "fileSize": 121700,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-dbe277fc70a32547012098e0724ab5ca10d770f0d271ecf5e939b85d232ad38e"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/WebDramaTurkey.cs3?v=a6711d784bc0",
+    "status": 3,
+    "version": 10,
+    "name": "WebDramaTurkey",
+    "internalName": "WebDramaTurkey",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WebDramaTurkey · Asya ve Kore dizileri, Çin, Japon dizileri ve filmleri tek sağlayıcıda.",
+    "fileSize": 140524,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "Anime",
+      "Others"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/WebDramaTurkey.svg",
+    "apiVersion": 1,
+    "fileHash": "sha256-a6711d784bc0f995b8dac2c899ec4bcd36138052e6e403522d2855238942d9a2"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/HintFilmIzle.cs3?v=3b0d59a0f9bd",
+    "status": 1,
+    "version": 2,
+    "name": "HintFilmİzle",
+    "internalName": "HintFilmIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "HintFilmİzle · En yeni Hint ve Asya filmleri & dizileri (hintfilmizle.com)",
+    "fileSize": 166127,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/assets/hintfilmizle.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-3b0d59a0f9bd0f457ccbaf6d2bcf45687a9625135adf13f0b9a207ba4af08741"
+  }
 ]
