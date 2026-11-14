@@ -21,16 +21,16 @@
     "fileHash": "sha256-e319da56670c523e59fd30615e1db05c9b3b193e0adcd14858148221e09c37bd"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziAsya.cs3?v=54ea45c08899",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziAsya.cs3?v=26cb586a210e",
     "status": 3,
-    "version": 13,
+    "version": 14,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
     "authors": [
       "Wiojelt"
     ],
     "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
-    "fileSize": 139160,
+    "fileSize": 139017,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
@@ -40,13 +40,13 @@
     ],
     "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-54ea45c088996db02df0193604995619aaaf3db52b50924a579fd7b0b316dc3e",
+    "fileHash": "sha256-26cb586a210ed8b616738d000744203dfbaa14266c8867b2b7df40fbbba91f08",
     "hash": "54ea45c088996db02df0193604995619aaaf3db52b50924a579fd7b0b316dc3e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/DiziKorea.cs3?v=cba4a2df61b5",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/DiziKorea.cs3?v=4c10177811c9",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "DiziKorea",
     "internalName": "DiziKorea",
     "authors": [
@@ -55,7 +55,7 @@
       "kraptor"
     ],
     "description": "Asya dizileri ve filmleri. Yayınlanmamış bölümlerde 'Bu bölümü sizler için hazırlıyoruz' bilgisi bölüm açıklamasında gösterilir.",
-    "fileSize": 121186,
+    "fileSize": 121563,
     "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
     "language": "tr",
     "tvTypes": [
@@ -64,7 +64,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-cba4a2df61b5139325efb99c33dce41494f674051d22c5fdf705a8739a935cc7"
+    "fileHash": "sha256-4c10177811c985a4cbd5e21067fb2cb96c4ab665222365e2b4e5fbff4a1fbe4a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/TRasyalog.cs3?v=c6c1e83192ae",
