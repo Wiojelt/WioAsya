@@ -18,7 +18,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e319da56670c523e59fd30615e1db05c9b3b193e0adcd14858148221e09c37bd"
+    "fileHash": "sha256-e319da56670c523e59fd30615e1db05c9b3b193e0adcd14858148221e09c37bd",
+    "filesize": 118915,
+    "hash": "e319da56670c523e59fd30615e1db05c9b3b193e0adcd14858148221e09c37bd"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/DiziAsya.cs3?v=26cb586a210e",
@@ -41,11 +43,12 @@
     "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
     "fileHash": "sha256-26cb586a210ed8b616738d000744203dfbaa14266c8867b2b7df40fbbba91f08",
-    "hash": "54ea45c088996db02df0193604995619aaaf3db52b50924a579fd7b0b316dc3e"
+    "hash": "26cb586a210ed8b616738d000744203dfbaa14266c8867b2b7df40fbbba91f08",
+    "filesize": 139017
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/DiziKorea.cs3?v=4c10177811c9",
-    "status": 1,
+    "status": 3,
     "version": 9,
     "name": "DiziKorea",
     "internalName": "DiziKorea",
@@ -64,7 +67,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-4c10177811c985a4cbd5e21067fb2cb96c4ab665222365e2b4e5fbff4a1fbe4a"
+    "fileHash": "sha256-4c10177811c985a4cbd5e21067fb2cb96c4ab665222365e2b4e5fbff4a1fbe4a",
+    "filesize": 121563,
+    "hash": "4c10177811c985a4cbd5e21067fb2cb96c4ab665222365e2b4e5fbff4a1fbe4a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/TRasyalog.cs3?v=c6c1e83192ae",
@@ -87,7 +92,9 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c6c1e83192ae7adfaa390b2360470b289c4bb38243ecb79c81f038871e94ae5c"
+    "fileHash": "sha256-c6c1e83192ae7adfaa390b2360470b289c4bb38243ecb79c81f038871e94ae5c",
+    "filesize": 109206,
+    "hash": "c6c1e83192ae7adfaa390b2360470b289c4bb38243ecb79c81f038871e94ae5c"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/asya/AsyaWatch.cs3?v=dbe277fc70a3",
@@ -135,7 +142,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/HintFilmIzle.cs3?v=3b0d59a0f9bd",
-    "status": 1,
+    "status": 3,
     "version": 2,
     "name": "HintFilmİzle",
     "internalName": "HintFilmIzle",
@@ -153,6 +160,8 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/assets/hintfilmizle.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3b0d59a0f9bd0f457ccbaf6d2bcf45687a9625135adf13f0b9a207ba4af08741"
+    "fileHash": "sha256-3b0d59a0f9bd0f457ccbaf6d2bcf45687a9625135adf13f0b9a207ba4af08741",
+    "filesize": 166127,
+    "hash": "3b0d59a0f9bd0f457ccbaf6d2bcf45687a9625135adf13f0b9a207ba4af08741"
   }
 ]
